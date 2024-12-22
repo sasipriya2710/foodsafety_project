@@ -1,0 +1,52 @@
+body{
+	background-image:url(image/image4.jpg);
+	background-color:#cccccc;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+h1{
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	font-family:times new roman;
+	font-size:60px;
+	background-color:#0f0f0f;
+}	
+h2{
+	font-style:italic;
+	color:green;
+	font-size:30px;
+	border:2px solid black;
+	width:450px;
+	padding:20px;
+	margin:auto;
+}
+p{
+font-weight:bold;
+font-size:25px;
+}
+ol{
+	background-color:#b4b4b4;
+	font-weight:bold;
+	font-size:20px;
+	color:black;
+}
+span{
+	text-decoration:overline underline;
+	font-style:italic;
+	color:green;
+}
+h3{
+	color:green;
+	text-decoration:underline
+	
+}
+mark{
+	background-color:pink;
+}
+audio{
+	border: 10px solid cyan;
+}
+video{
+	border: 10px solid green;
+}
